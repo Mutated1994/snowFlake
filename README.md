@@ -5,12 +5,13 @@
 这个算法的生命周期差不多是68年，所以这个包最多可以使用到2087年7月21日
 
 在使用过程中千万不要修改epoch的值... 千万不要  
+
+### 参考代码（根据前辈的代码优化）
+https://github.com/holdno/snowFlakeByGo
   
 ### 算法详解  
 https://segmentfault.com/a/1190000014767902
 
-https://github.com/holdno/snowFlakeByGo（根据前辈的代码进行优化）
-  
 ### 如何使用 HOW TO USE  
 ``` golang
 import "github.com/Mutated1994/snowFlake"

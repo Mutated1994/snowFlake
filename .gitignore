@@ -1,0 +1,10 @@
+.DS_Store
+
+# IDE Files
+#-------------------------
+.idea/*
+
+/vendor
+
+go.mod
+

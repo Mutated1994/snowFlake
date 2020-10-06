@@ -1,6 +1,4 @@
-## twitter snowFlake算法
-
-该golang实现由2019-07-21 17:10:12编写(主要参考代码中的epoch的值)  
+## twitter SnowFlake算法
 
 这个算法的生命周期差不多是68年，所以这个包最多可以使用到2087年7月21日
 
